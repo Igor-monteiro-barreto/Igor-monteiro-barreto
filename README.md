@@ -10,7 +10,7 @@
 
 ## Tecnologias que eu utilizo 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-monteiro-barreto&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-monteiro-barreto&layout=donut)](https://github.com/Igor-monteiro-barreto/github-readme-stats)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
