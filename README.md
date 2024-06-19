@@ -8,7 +8,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/9mihmk)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igao_monteiro/)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-monteiro-barreto&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu utilizo 
 
