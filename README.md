@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Igor+Monteiro;I'm+19+years+old;I+from+Brasil;I+study+analise+desenvolvimento+de+sistemas;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Igor+Monteiro;I'm+19+years+old;I'm+from+Brasil;I'm+a+study+analise+desenvolvimento+de+sistemas;+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-monteiro-barreto-b248a11a9/)
